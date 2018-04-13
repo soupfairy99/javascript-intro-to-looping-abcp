@@ -1,7 +1,7 @@
 function forLoop(array)
 
   { var makeArray = [];
-  for (var i = 0; i < 28; i++)
+  for (var i = 0; i < 25; i++)
   {
  if  (i === 1)  
     { makeArray.push("I am 1 strange loop.")}
@@ -21,3 +21,5 @@ function whileLoop(n) {
 }
 return('done')
 }
+
+function doWhileLoop ()
