@@ -14,3 +14,4 @@ function forLoop(array)
 
 forLoop();
 
+function whileLoop(n)
